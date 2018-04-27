@@ -1,0 +1,7 @@
+C:\Users\Andrew\source\repos\MoviePrices\MoviePrices\bin\Debug\MoviePrices.exe.config
+C:\Users\Andrew\source\repos\MoviePrices\MoviePrices\bin\Debug\MoviePrices.exe
+C:\Users\Andrew\source\repos\MoviePrices\MoviePrices\bin\Debug\MoviePrices.pdb
+C:\Users\Andrew\source\repos\MoviePrices\MoviePrices\obj\Debug\MoviePrices.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\source\repos\MoviePrices\MoviePrices\obj\Debug\MoviePrices.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\source\repos\MoviePrices\MoviePrices\obj\Debug\MoviePrices.exe
+C:\Users\Andrew\source\repos\MoviePrices\MoviePrices\obj\Debug\MoviePrices.pdb
